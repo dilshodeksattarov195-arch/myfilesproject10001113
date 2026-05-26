@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "smsfalidate",
+        "uuid": 4316214,
+        "checksum": "dvvgdl"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
